@@ -7,13 +7,22 @@ import Search from "./features/Search";
 const HomePage = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [filterType, setFilterType] = useState("all");
-  const filteredMovies = movies.filter((movie) =>
+  const [extraFilter, setExtraFilter] = useState(null);
+
+  let filteredMovies = movies.filter((movie) =>
     movie.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
-
-  const filteredSeries = series.filter((serie) =>
+  let filteredSeries = series.filter((serie) =>
     serie.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
+
+  if (extraFilter === "trending") {
+    filteredMovies = filteredMovies.filter((movie) => movie.trending);
+    filteredSeries = filteredSeries.filter((serie) => serie.trending);
+  } else if (extraFilter === "nostalgia") {
+    filteredMovies = filteredMovies.filter((movie) => movie.nostalgia);
+    filteredSeries = filteredSeries.filter((serie) => serie.nostalgia);
+  }
 
   const filteredItems =
     filterType === "all"
@@ -34,7 +43,7 @@ const HomePage = () => {
         </header>
         <Search searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
-        <div className="flex items-center mt-4 justify-center gap-8">
+        <div className="flex items-center mt-4 justify-center gap-4 flex-wrap">
           <button
             className={`py-2 px-4 rounded-lg cursor-pointer ${
               filterType === "all" ? "bg-blue-500 text-white" : "bg-gray-300"
@@ -59,6 +68,30 @@ const HomePage = () => {
           >
             Serialet
           </button>
+          <button
+            className={`py-2 px-4 rounded-lg cursor-pointer ${
+              extraFilter === "trending"
+                ? "bg-green-500 text-white"
+                : "bg-gray-300"
+            }`}
+            onClick={() =>
+              setExtraFilter(extraFilter === "trending" ? null : "trending")
+            }
+          >
+            Trending
+          </button>
+          <button
+            className={`py-2 px-4 rounded-lg cursor-pointer ${
+              extraFilter === "nostalgia"
+                ? "bg-yellow-500 text-white"
+                : "bg-gray-300"
+            }`}
+            onClick={() =>
+              setExtraFilter(extraFilter === "nostalgia" ? null : "nostalgia")
+            }
+          >
+            Nostalgji
+          </button>
         </div>
       </div>
 
@@ -66,7 +99,9 @@ const HomePage = () => {
         <ul>
           {filteredItems.map((item) => (
             <li key={item.id}>
-              {item.type === "movie" ? (
+              {item.type === "Anime" ||
+              item.type === "Disney" ||
+              item.type === "Cartoon" ? (
                 <MovieCard movie={item} />
               ) : (
                 <SeriesCard series={item} />
