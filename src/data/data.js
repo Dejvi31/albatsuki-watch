@@ -158,7 +158,7 @@ export const movies = [
     nostalgia: false,
   },
   {
-    id: "m-11",
+    id: "m-11-9Nenta",
     title: "9 Nenta",
     desc: "Një kukull pellushi që zgjohët në një të ardhme post-apokaliptike mban çelësin e shpëtimit të njerëzimit.",
     language: "Dublim Shqip",
@@ -171,6 +171,21 @@ export const movies = [
     mainCast: ["9", "7", "1 "],
     videoURL: "https://filemoon.to/e/2k9qf6akqnz6",
     type: "Western Animated",
+    nostalgia: true,
+  },
+  {
+    id: "m-12-ZoroFantastiku",
+    title: "Zoro Fantastiku",
+    desc: "Historia emocionuese e Don Diego Vega, një aristokrat i ri dhe përtac në Kaliforninë e hershme, i cili jeton një jetë të fshehtë si Zorro – hakmarrësi misterioz me maskë dhe mbrojtësi i të shtypurve.",
+    language: "Dublim Shqip",
+    rating: 8.1,
+    trending: false,
+    image: "https://bestsimilar.com/img/movie/thumb/70/8269.jpg",
+    author: "Johnston McCulley",
+    mainCharacter: "Zorro",
+    mainCast: ["Zorro", "Lolita", "Bernardo"],
+    videoURL: "https://filemoon.to/e/864bobqlytxz",
+    type: "DIC Entertainment",
     nostalgia: true,
   },
 ];
@@ -195,6 +210,70 @@ export const series = [
       {
         episodeNumber: 2,
         episodeVideoURL: "https://filemoon.to/e/glvwe2g0zwnh",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/mxs5r2bck282",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/3hfdd1lhz4bw",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/250k1plocche",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/unwftk2ngghc",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/lql1hu085ldi",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/st7do9ym3de2",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/z4ly2ii48cjr",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/19iia52890cy",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/wqncem4l5fer",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/isezuasnvncb",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/pqcbfuej5ggl",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/gl9gg6dnkvdm",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/9yuitafk25hf",
+      },
+      {
+        episodeNumber: 16,
+        episodeVideoURL: "https://filemoon.to/e/r0edkegmmnhe",
+      },
+      {
+        episodeNumber: 17,
+        episodeVideoURL: "https://filemoon.to/e/uro2111lmcaw",
+      },
+      {
+        episodeNumber: 18,
+        episodeVideoURL: "https://filemoon.to/e/k618u0415x56",
       },
     ],
     type: "Cartoon",
@@ -221,6 +300,94 @@ export const series = [
         episodeNumber: 2,
         episodeVideoURL: "https://filemoon.to/e/mj85nu1zixev",
       },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/c4bi4kl130wl",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/vawqmxvonxts",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/x4ffmfo811ms",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/91l5vpxtzqvk",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/6s0fofa0vrju",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/p86umlai9qgg",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/v5tslix0go02",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/jbnqj1fmq2mb",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/rzhootx9eas8",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/o57j10fvdg8x",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/9vyxnd5vzruk",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/0ki3vrzf6ud6",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/d4p8a9c87q05",
+      },
+      {
+        episodeNumber: 16,
+        episodeVideoURL: "https://filemoon.to/e/y5qkavr0000h",
+      },
+      {
+        episodeNumber: 17,
+        episodeVideoURL: "https://filemoon.to/e/kxsj14a3qej5",
+      },
+      {
+        episodeNumber: 18,
+        episodeVideoURL: "https://filemoon.to/e/xjrdjh7cx6de",
+      },
+      {
+        episodeNumber: 19,
+        episodeVideoURL: "https://filemoon.to/e/knfrtmv4king",
+      },
+      {
+        episodeNumber: 20,
+        episodeVideoURL: "https://filemoon.to/e/dtovxtf3uhoe",
+      },
+      {
+        episodeNumber: 21,
+        episodeVideoURL: "https://filemoon.to/e/b24qer3m5cju",
+      },
+      {
+        episodeNumber: 22,
+        episodeVideoURL: "https://filemoon.to/e/3uo5w94nnh8e",
+      },
+      {
+        episodeNumber: 23,
+        episodeVideoURL: "https://filemoon.to/e/emzcf6vomr4f",
+      },
+      {
+        episodeNumber: 24,
+        episodeVideoURL: "https://filemoon.to/e/y1q4o3xfni3r",
+      },
     ],
     type: "Anime",
     nostalgia: false,
@@ -245,6 +412,46 @@ export const series = [
       {
         episodeNumber: 2,
         episodeVideoURL: "https://filemoon.to/e/o9x2ch989hcf",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/hh3r9qfe9p9m",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/sk5xkxes03m3",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/4ongmhnmnxz4",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/7hetqez9q25a",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/yzxwwogip8zs",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/ngqj492jrcz6",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/63f35gx0bwgc",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/g4osff2t2ioh",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/8qq5gzhh5qhx",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/j9aa2cvtuz54",
       },
     ],
     type: "Anime",
