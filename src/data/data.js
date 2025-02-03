@@ -188,6 +188,22 @@ export const movies = [
     type: "DIC Entertainment",
     nostalgia: true,
   },
+  {
+    id: "m-13-DjemteEKeqinj",
+    title: "Djemte e Keqinj",
+    desc: "Për të shmangur burgun, një bandë kriminelësh famëkeqe nga bota e kafshëve shtiret sikur dëshiron të ndryshojë dhe të përmirësohet. Por lideri i tyre, pa e pritur, kupton se në të vërtetë dëshiron të bëhet një person më i mirë.",
+    language: "Dublim Shqip",
+    rating: 7.8,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BZTljOGJiNjYtYTY1Ni00Yzk4LWI2YTUtNTdhYmYyMTgyNDMxXkEyXkFqcGc@._V1_.jpg",
+    author: "Aaron Blabey",
+    mainCharacter: "Wolf",
+    mainCast: ["Wolf", "Piranha", "Snake", "Shark"],
+    videoURL: "https://filemoon.to/e/ei6pdgnzvhg5",
+    type: "DreamWorks Animation",
+    nostalgia: true,
+  },
 ];
 
 export const series = [
@@ -456,5 +472,66 @@ export const series = [
     ],
     type: "Anime",
     nostalgia: false,
+  },
+  {
+    id: "s-4-YuGiOh",
+    title: "Yu Gi Oh",
+    desc: "Yugi Moto zgjidh një enigmë të lashtë egjiptiane dhe zgjon një alter ego të errët dhe të fuqishëm. Sa herë që ai dhe miqtë e tij përballen me rrezikun në lojën Duel Monsters, ky alter ego shfaqet për t'i shpëtuar.",
+    language: "Dublim Shqip",
+    rating: 9.1,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYzNkNjA1YTctMzU3ZS00ZWY3LWJjNjYtMTgyMmI0YWVkNjU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    author: "Kazuki Takahashi",
+    mainCharacter: "Yugi",
+    mainCast: ["Yugi", "Kaiba", "Xhoi"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/i2mpg6gko4qx",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/lhaxjuwu0pfw",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/6l9bozvfa1e8",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/s2ifdo671rg7",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/5ioeelgrh2re",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/swzrln2mn4sx",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/8gn4ju594ifa",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/m9fxrajgf02e",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/dtr42cvbpjxd",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/d75igtj4kyrm",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/0gpsatsau7lv",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
   },
 ];
