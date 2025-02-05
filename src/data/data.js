@@ -204,6 +204,21 @@ export const movies = [
     type: "DreamWorks Animation",
     nostalgia: true,
   },
+  {
+    id: "m-14-Trili",
+    title: "Trili",
+    desc: "Hyni në botën e Trilit dhe katër miqve të saj më të mirë zanash.",
+    language: "Dublim Shqip",
+    rating: 7.2,
+    trending: false,
+    image: "https://upload.wikimedia.org/wikipedia/en/1/18/Tinker_Bell_DVD.jpg",
+    author: "J. M. Barrie",
+    mainCharacter: "Trili",
+    mainCast: ["Trili", "Roseta", "Silvermist"],
+    videoURL: "https://filemoon.to/e/j7y01p9s3keu",
+    type: "Disney",
+    nostalgia: true,
+  },
 ];
 
 export const series = [
@@ -529,6 +544,63 @@ export const series = [
       {
         episodeNumber: 11,
         episodeVideoURL: "https://filemoon.to/e/0gpsatsau7lv",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-5-OnePiece",
+    title: "One Piece",
+    desc: "Monkey D. Luffy nis një aventurë epike me ekuipazhin e tij piratë, me shpresën për të gjetur thesarin më të madh të të gjitha kohërave, të njohur si One Piece.",
+    language: "Dublim Shqip",
+    rating: 9.8,
+    trending: true,
+    image:
+      "https://upload.wikimedia.org/wikipedia/en/9/90/One_Piece%2C_Volume_61_Cover_%28Japanese%29.jpg",
+    author: "Eiichiro Oda",
+    mainCharacter: "Monkey D Luffy",
+    mainCast: ["Luffy", "Zoro", "Sanji"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/zuud2jug7uxz",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/krti2g6tuis9",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/h6r4i3dgnxwz",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/fi918kux8tfc",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/nola6uxedno8",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/vd2arml2srql",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/mcgkos4xay27",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/43o6lcgl53sp",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/0v7xzj9wgvds",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/u9pa985ge0f6",
       },
     ],
     type: "Anime",
