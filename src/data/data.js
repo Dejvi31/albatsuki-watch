@@ -219,6 +219,38 @@ export const movies = [
     type: "Disney",
     nostalgia: true,
   },
+  {
+    id: "m-15-Balto",
+    title: "Balto",
+    desc: "Një Husky i dëbuar rrezikon jetën e tij me qen të tjerë për të parandaluar një epidemi vdekjeprurëse që mund të shkatërrojë Nome, Alaskë.",
+    language: "Dublim Shqip",
+    rating: 7.1,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BNzY2OGY3MTYtMTlhNC00MDUyLWE2OGEtNzMzZjQxYjFiYjRiXkEyXkFqcGc@._V1_.jpg",
+    author: "Natalie Standiford",
+    mainCharacter: "Balto",
+    mainCast: ["Balto", "Jenna", "Rosy"],
+    videoURL: "https://filemoon.to/e/9wnys7vj3jzr",
+    type: "Disney",
+    nostalgia: true,
+  },
+  {
+    id: "m-16-CmenduriteEPerandorit",
+    title: "Cmendurite e Perandorit",
+    desc: "Perandori Kuzko shndërrohet në një kafshë të quajtur lamë nga ish-administratori i tij Yzma, dhe tani i duhet të rifitojë fronin me ndihmën e Pacha, bariut të mirë të lamave.",
+    language: "Dublim Shqip",
+    rating: 7.9,
+    trending: false,
+    image:
+      "https://lumiere-a.akamaihd.net/v1/images/p_theemporersnewgrooves_19879_68ed235d.jpeg",
+    author: "David Reynolds",
+    mainCharacter: "Kusko",
+    mainCast: ["Kusko", "Pacha", "Yzma"],
+    videoURL: "https://filemoon.to/e/fqtpp09m3lui",
+    type: "Disney",
+    nostalgia: true,
+  },
 ];
 
 export const series = [
