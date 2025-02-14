@@ -638,4 +638,1006 @@ export const series = [
     type: "Anime",
     nostalgia: true,
   },
+  {
+    id: "s-6-Naruto",
+    title: "Naruto",
+    desc: "Naruto Uzumaki, një ninja adoleshent çapkën, lufton për t'u pranuar dhe ëndërron të bëhet Hokage – udhëheqësi dhe ninja më i fuqishëm i fshatit.",
+    language: "Dublim Shqip",
+    rating: 9.9,
+    trending: true,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    author: "Masashi Kishimoto",
+    mainCharacter: "Naruto",
+    mainCast: ["Naruto", "Sasuke", "Sakura"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/ky8wj58x89jg",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/a8vxmkt2eli3",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/nmd0sirrqulo",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/dq760fvpumw6",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/addcoscycpol",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/4kzi9dupc0zx",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/mu1ezhtgxunw",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/zer4pt96shri",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/aiedqauchc2d",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/2uwjmuqyckkv",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/10syfdoc2ncw",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/f6owc83ty28j",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/i5ho2ya1vi9n",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/nulp2es3a0z5",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/8fp9cni69nip",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-7-NarutoShippuden",
+    title: "Naruto Shippuden",
+    desc: "Naruto Uzumaki është një ninja adoleshent i zhurmshëm dhe plot energji, i cili kërkon vazhdimisht miratim dhe njohje, si dhe ëndërron të bëhet Hokage – udhëheqësi dhe ninja më i fuqishëm i fshatit.",
+    language: "Dublim Shqip",
+    rating: 9.9,
+    trending: true,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BNTk3MDA1ZjAtNTRhYS00YzNiLTgwOGEtYWRmYTQ3NjA0NTAwXkEyXkFqcGc@._V1_.jpg",
+    author: "Masashi Kishimoto",
+    mainCharacter: "Naruto",
+    mainCast: ["Naruto", "Sasuke", "Sakura"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/e7ddy2zij8zx",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/dbhtt1r2p5ob",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/j62tqrvh2j4t",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/f36c0dlnrkxo",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-8-SailorMoon",
+    title: "Sailor Moon",
+    desc: "Sabrina është një vajzë e ngathët, por me zemër të madhe, e cila shndërrohet në gardianen e fuqishme të dashurisë dhe drejtësisë, Sailor Moon. Gjatë rrugëtimit të saj, ajo takon aleatë dhe, së bashku me ekipin e saj të Gardianeve Sailor, lufton për të mbrojtur universin nga forcat e së keqes.",
+    language: "Dublim Shqip",
+    rating: 8.8,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BZDc2NDRiZDItMDdkOS00OTJjLWExYjAtNDQ5ZGJiYmE5NDJiXkEyXkFqcGc@._V1_.jpg",
+    author: "Naoko Takeuchi",
+    mainCharacter: "Sabrina",
+    mainCast: ["Sabrina", "Dorjani", "Sailors"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/z5i5golxmdfs",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/hip6emcafo8y",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/2wzfrpwe4n8w",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/8c5a28npdhgv",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/s5etylzgdyxs",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/ktj6zkb3bice",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-9-BenTen",
+    title: "Ben Ten",
+    desc: "Historia e Ben Ten, një djalë i zakonshëm që bëhet krejtësisht i pazakontë pasi zbulon Omnitrixin – një pajisje misterioze aliene me fuqinë për ta shndërruar përdoruesin në dhjetë lloje të ndryshme alienësh.",
+    language: "Dublim Shqip",
+    rating: 9.0,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYWVjODZjNDgtYjk4ZS00OTg5LTg5NDQtZDMxZDQ4ZmM5MGJmXkEyXkFqcGc@._V1_.jpg",
+    author: "Duncan Rouleau",
+    mainCharacter: "BenTen",
+    mainCast: ["BenTen", "Gwen", "Max"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/0m2inhyc8zr4",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/d5sjq9vkzhu6",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/8pq99vlo2myt",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/9k5f9c6ewwum",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/cly4nprtim0m",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/llrdm0b2kcw1",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/3wzmaiblkd7k",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/ypouuhewvjur",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/s8xfpp8vmbn8",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/zzsfyoh4fanh",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/ttht7982nzce",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/ygtgdr5v4j4a",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/poejw7z71r5c",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/iq8to4fo8z22",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/yd1cxlgodvjf",
+      },
+      {
+        episodeNumber: 16,
+        episodeVideoURL: "https://filemoon.to/e/40owk10h1psv",
+      },
+      {
+        episodeNumber: 17,
+        episodeVideoURL: "https://filemoon.to/e/t6kjmwzhqo10",
+      },
+      {
+        episodeNumber: 18,
+        episodeVideoURL: "https://filemoon.to/e/d27ytufjainl",
+      },
+      {
+        episodeNumber: 19,
+        episodeVideoURL: "https://filemoon.to/e/2t4t216l4z15",
+      },
+      {
+        episodeNumber: 20,
+        episodeVideoURL: "https://filemoon.to/e/ng58x0wrdqgp",
+      },
+      {
+        episodeNumber: 21,
+        episodeVideoURL: "https://filemoon.to/e/p18srypbpywm",
+      },
+      {
+        episodeNumber: 22,
+        episodeVideoURL: "https://filemoon.to/e/iucz5t1xn85a",
+      },
+      {
+        episodeNumber: 23,
+        episodeVideoURL: "https://filemoon.to/e/7y18k66jqbd6",
+      },
+      {
+        episodeNumber: 24,
+        episodeVideoURL: "https://filemoon.to/e/yyznps5km5ih",
+      },
+      {
+        episodeNumber: 25,
+        episodeVideoURL: "https://filemoon.to/e/gv5zn962my31",
+      },
+      {
+        episodeNumber: 26,
+        episodeVideoURL: "https://filemoon.to/e/ucfmr78li88d",
+      },
+      {
+        episodeNumber: 27,
+        episodeVideoURL: "https://filemoon.to/e/tpmgm6alycz6",
+      },
+      {
+        episodeNumber: 28,
+        episodeVideoURL: "https://filemoon.to/e/lm8fn0szqn3v",
+      },
+      {
+        episodeNumber: 29,
+        episodeVideoURL: "https://filemoon.to/e/wwmvvhs0vv4f",
+      },
+      {
+        episodeNumber: 30,
+        episodeVideoURL: "https://filemoon.to/e/2qlhdl5f8xxo",
+      },
+      {
+        episodeNumber: 31,
+        episodeVideoURL: "https://filemoon.to/e/n9mf41m6iipr",
+      },
+      {
+        episodeNumber: 32,
+        episodeVideoURL: "https://filemoon.to/e/4kchx6250mkw",
+      },
+      {
+        episodeNumber: 33,
+        episodeVideoURL: "https://filemoon.to/e/qh4oca6xg7bl",
+      },
+      {
+        episodeNumber: 34,
+        episodeVideoURL: "https://filemoon.to/e/bbd91vxoa9ab",
+      },
+      {
+        episodeNumber: 35,
+        episodeVideoURL: "https://filemoon.to/e/5witltuv36ax",
+      },
+      {
+        episodeNumber: 36,
+        episodeVideoURL: "https://filemoon.to/e/jae7yy99y1uh",
+      },
+      {
+        episodeNumber: 37,
+        episodeVideoURL: "https://filemoon.to/e/o1mrui7ym98d",
+      },
+      {
+        episodeNumber: 38,
+        episodeVideoURL: "https://filemoon.to/e/w3l9cpqwn5wc",
+      },
+      {
+        episodeNumber: 39,
+        episodeVideoURL: "https://filemoon.to/e/xgceli3fo47z",
+      },
+      {
+        episodeNumber: 40,
+        episodeVideoURL: "https://filemoon.to/e/j2qamgzjmpw6",
+      },
+      {
+        episodeNumber: 41,
+        episodeVideoURL: "https://filemoon.to/e/az2apjzzv7pf",
+      },
+      {
+        episodeNumber: 42,
+        episodeVideoURL: "https://filemoon.to/e/5wfoildx24oc",
+      },
+      {
+        episodeNumber: 43,
+        episodeVideoURL: "https://filemoon.to/e/pvv8r4if92m8",
+      },
+      {
+        episodeNumber: 44,
+        episodeVideoURL: "https://filemoon.to/e/um3eh9bs2a1t",
+      },
+      {
+        episodeNumber: 45,
+        episodeVideoURL: "https://filemoon.to/e/0r8gw8syfkfr",
+      },
+      {
+        episodeNumber: 46,
+        episodeVideoURL: "https://filemoon.to/e/tqm6s4qetw83",
+      },
+      {
+        episodeNumber: 47,
+        episodeVideoURL: "https://filemoon.to/e/2eqh5iwq8yrk",
+      },
+      {
+        episodeNumber: 48,
+        episodeVideoURL: "https://filemoon.to/e/0db5gy1siw5n",
+      },
+      {
+        episodeNumber: 49,
+        episodeVideoURL: "https://filemoon.to/e/82uwn4324gpn",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-10-Zenki",
+    title: "Zenki",
+    desc: "Zenki është një anime aksion dhe fantazi që ndjek Chiaki Enno, një vajzë e re nga një familje priftërinjsh, e cila zgjon Zenkin, një demon të fuqishëm luftarak, për të luftuar kundër forcave të errëta.Së bashku, ata përballen me demonë të rrezikshëm dhe kërkojnë të ndalojnë rilindjen e së keqes.",
+    language: "Dublim Shqip",
+    rating: 9.1,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BZjA0YjRkYTEtOTgzZi00MWE1LWEzNWMtNTc5ZmQ5ZDVmZjMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    author: "Kiyoshi Nagai",
+    mainCharacter: "Zenki",
+    mainCast: ["Zenki", "Chaki"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/a591rbwyadzm",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/zehzv2jfphuw",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/z3tqmeii7fja",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/yzxyobhtr74g",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/4u37qf27j0hl",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-11-Avatar",
+    title: "Avatar",
+    desc: "Në një botë të shkatërruar nga luftërat dhe fuqitë elementale, një djalë i ri zgjohet për të nisur një mision të rrezikshëm mistik për të përmbushur destinimin e tij si Avatar dhe për të sjellë paqe në botë.",
+    language: "Dublim Shqip",
+    rating: 9.2,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BMDMwMThjYWYtY2Q2OS00OGM2LTlkODQtNDJlZTZmMjAyYmFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    author: "Michael Dante DiMartino",
+    mainCharacter: "Aang",
+    mainCast: ["Aang", "Katara", "Soka"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/evos8zszxf7a",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/etkpp7x1dtzi",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/0q6rset0fb6l",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/k7hxkvdrex65",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/yr0y5zb8afn6",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/hp4wl10e1xje",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/5csdm45m1wx9",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/akz65kfapuy4",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/1hgnmealcoq8",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/i3n0orkzr5lq",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/c198yleu5a81",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/2bt2m0uvytku",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/5wwijc08l6e3",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/nc046cbv7vgn",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/myoe5kipbamf",
+      },
+      {
+        episodeNumber: 16,
+        episodeVideoURL: "https://filemoon.to/e/ha20gpzlaxb7",
+      },
+      {
+        episodeNumber: 17,
+        episodeVideoURL: "https://filemoon.to/e/8a7c1ulym70o",
+      },
+      {
+        episodeNumber: 18,
+        episodeVideoURL: "https://filemoon.to/e/ts2fsx40i211",
+      },
+      {
+        episodeNumber: 19,
+        episodeVideoURL: "https://filemoon.to/e/16205tew8was",
+      },
+      {
+        episodeNumber: 20,
+        episodeVideoURL: "https://filemoon.to/e/v0yjbddh70b4",
+      },
+      {
+        episodeNumber: 21,
+        episodeVideoURL: "https://filemoon.to/e/mszfkhetnd77",
+      },
+      {
+        episodeNumber: 22,
+        episodeVideoURL: "https://filemoon.to/e/a7fm6cir8tgn",
+      },
+      {
+        episodeNumber: 23,
+        episodeVideoURL: "https://filemoon.to/e/k7iq5tnx0xwd",
+      },
+      {
+        episodeNumber: 24,
+        episodeVideoURL: "https://filemoon.to/e/qllvva60gh3r",
+      },
+      {
+        episodeNumber: 25,
+        episodeVideoURL: "https://filemoon.to/e/7lgabopltkdq",
+      },
+      {
+        episodeNumber: 26,
+        episodeVideoURL: "https://filemoon.to/e/pv702hun51mg",
+      },
+      {
+        episodeNumber: 27,
+        episodeVideoURL: "https://filemoon.to/e/jr44oot0gfr4",
+      },
+      {
+        episodeNumber: 28,
+        episodeVideoURL: "https://filemoon.to/e/plavuiddplkh",
+      },
+      {
+        episodeNumber: 29,
+        episodeVideoURL: "https://filemoon.to/e/1bb4yvks1ei0",
+      },
+      {
+        episodeNumber: 30,
+        episodeVideoURL: "https://filemoon.to/e/l67tkb6uc7ji",
+      },
+      {
+        episodeNumber: 31,
+        episodeVideoURL: "https://filemoon.to/e/k2wdg6vih2lo",
+      },
+      {
+        episodeNumber: 32,
+        episodeVideoURL: "https://filemoon.to/e/ncvlvy2wzo7c",
+      },
+      {
+        episodeNumber: 33,
+        episodeVideoURL: "https://filemoon.to/e/46ogyovbyld7",
+      },
+      {
+        episodeNumber: 34,
+        episodeVideoURL: "https://filemoon.to/e/2m075yinwcsr",
+      },
+      {
+        episodeNumber: 35,
+        episodeVideoURL: "https://filemoon.to/e/29wpiqke5vx4",
+      },
+      {
+        episodeNumber: 36,
+        episodeVideoURL: "https://filemoon.to/e/wazafb2eprqn",
+      },
+      {
+        episodeNumber: 37,
+        episodeVideoURL: "https://filemoon.to/e/xv31ooboh555",
+      },
+      {
+        episodeNumber: 38,
+        episodeVideoURL: "https://filemoon.to/e/aa5d25j6y6c6",
+      },
+      {
+        episodeNumber: 39,
+        episodeVideoURL: "https://filemoon.to/e/ojac8z5bczf9",
+      },
+      {
+        episodeNumber: 40,
+        episodeVideoURL: "https://filemoon.to/e/4c2q7ip1h76k",
+      },
+      {
+        episodeNumber: 41,
+        episodeVideoURL: "https://filemoon.to/e/sgiak9812ofs",
+      },
+      {
+        episodeNumber: 42,
+        episodeVideoURL: "https://filemoon.to/e/hy3of3il0bis",
+      },
+      {
+        episodeNumber: 43,
+        episodeVideoURL: "https://filemoon.to/e/h25p4ro7g4gw",
+      },
+      {
+        episodeNumber: 44,
+        episodeVideoURL: "https://filemoon.to/e/k921g7xo2ndc",
+      },
+      {
+        episodeNumber: 45,
+        episodeVideoURL: "https://filemoon.to/e/ob7hjisqdas9",
+      },
+      {
+        episodeNumber: 46,
+        episodeVideoURL: "https://filemoon.to/e/knd35xm9ub1a",
+      },
+      {
+        episodeNumber: 47,
+        episodeVideoURL: "https://filemoon.to/e/4ozogbx3376s",
+      },
+      {
+        episodeNumber: 48,
+        episodeVideoURL: "https://filemoon.to/e/ouyttfqjlro6",
+      },
+      {
+        episodeNumber: 49,
+        episodeVideoURL: "https://filemoon.to/e/js0jb8wj3qnc",
+      },
+      {
+        episodeNumber: 50,
+        episodeVideoURL: "https://filemoon.to/e/y6lrru9xzivw",
+      },
+      {
+        episodeNumber: 51,
+        episodeVideoURL: "https://filemoon.to/e/jylsynlp40lz",
+      },
+      {
+        episodeNumber: 52,
+        episodeVideoURL: "https://filemoon.to/e/206drog3qd5m",
+      },
+      {
+        episodeNumber: 53,
+        episodeVideoURL: "https://filemoon.to/e/5ksjb2xg6wlc",
+      },
+      {
+        episodeNumber: 54,
+        episodeVideoURL: "https://filemoon.to/e/8zb72o2pnk0c",
+      },
+      {
+        episodeNumber: 55,
+        episodeVideoURL: "https://filemoon.to/e/3tgpjrl33p6c",
+      },
+      {
+        episodeNumber: 56,
+        episodeVideoURL: "https://filemoon.to/e/db395pi4pu46",
+      },
+      {
+        episodeNumber: 57,
+        episodeVideoURL: "https://filemoon.to/e/x3pgz3t9w70w",
+      },
+      {
+        episodeNumber: 58,
+        episodeVideoURL: "https://filemoon.to/e/y5aogizc2592",
+      },
+      {
+        episodeNumber: 59,
+        episodeVideoURL: "https://filemoon.to/e/lqkyaht8ycy9",
+      },
+      {
+        episodeNumber: 60,
+        episodeVideoURL: "https://filemoon.to/e/6nmh03xott0z",
+      },
+      {
+        episodeNumber: 61,
+        episodeVideoURL: "https://filemoon.to/e/z9ro1uqr1fu5",
+      },
+    ],
+    type: "Anime",
+    nostalgia: true,
+  },
+  {
+    id: "s-12-SoloLevelingS1",
+    title: "Solo Leveling S1",
+    desc: "Jin-woo dhe miqtë e tij duken se kanë pastruar një dungeon të nivelit të ulët, kur papritmas zbulohet një rrugë e fshehtë që çon në një tempull të panjohur.",
+    language: "Titra Shqip",
+    rating: 9.4,
+    trending: true,
+    image:
+      "https://upload.wikimedia.org/wikipedia/en/7/7b/Solo_Leveling_key_visual.jpg",
+    author: "Chugong",
+    mainCharacter: "Sung Jinwoo",
+    mainCast: ["Sung Jinwoo", "Cha Hae In"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/ji0cfupdfkxb",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/2z9mlnjvf4q9",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/p55s64t6x819",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/uhz8qgh517nr",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/9ix7ngfuutow",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/v6t4kpi705ct",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/7d4yl2hi8ktk",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/r48gxz1cz7ci",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/wkhr66gg35j7",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/pbopqnzcge7l",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/uphccrqs42yo",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/z5p2k0urp7vd",
+      },
+    ],
+    type: "Anime",
+    nostalgia: false,
+  },
+  {
+    id: "s-13-KurokoNoBasket",
+    title: "Kuroko no Basket",
+    desc: "Kagami ndeshet me Kuroko, anëtarin e 6-të të Gjeneratës së Mrekullive, dhe ata bëjnë një marrëveshje për të mundur anëtarët e tjerë të ekipit. Kështu nis një betejë mes dritës (Kagami) dhe hijes (Kuroko).",
+    language: "Dublim Shqip",
+    rating: 8.5,
+    trending: false,
+    image:
+      "https://m.media-amazon.com/images/M/MV5BYmI3NDAyZGUtYWZiZC00YWIwLTgyNDQtYjZmOGFmNTkzODYzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    author: "Tadatoshi Fujimaki",
+    mainCharacter: "Kuroko",
+    mainCast: ["Kuroko", "Kagami"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/j2iy0551czkh",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/cz0shxfb8zyj",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/z6xfphslst8n",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/af8kq8b3q53f",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/mub6gnykkix5",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/7ktd2a9lgqo9",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/c7084obovmcx",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/634ubfrtgdvz",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/g9qft74uizat",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/ppkgs2jxdddf",
+      },
+    ],
+    type: "Anime",
+    nostalgia: false,
+  },
+  {
+    id: "s-14-AttackOnTitanS1",
+    title: "Attack On Titan S1",
+    desc: "Njerëzit luftojnë për mbijetesë ndaj titanëve që shkatërrojnë qytetet e tyre, ndërsa Eren Yeager dhe shokët e tij bashkohen me ushtrinë për të zbuluar sekretet e botës së tyre.",
+    language: "Titra Shqip",
+    rating: 9.7,
+    trending: true,
+    image:
+      "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10873160_b_v8_aa.jpg",
+    author: "Hajime Isayama",
+    mainCharacter: "Eren Yeager",
+    mainCast: ["Eren", "Mikasa", "Armin"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/zq24t07d3649",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/gzso0izkhqos",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/u6mgw2zrj3go",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/10hshmbmeuc0",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/bpy9ymkwo235",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/txbvc4nlf2e9",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/aal1b9z6fqj6",
+      },
+      {
+        episodeNumber: 8,
+        episodeVideoURL: "https://filemoon.to/e/aeydqmns7xv8",
+      },
+      {
+        episodeNumber: 9,
+        episodeVideoURL: "https://filemoon.to/e/em6hzczrd69x",
+      },
+      {
+        episodeNumber: 10,
+        episodeVideoURL: "https://filemoon.to/e/3k6rsiv8ck6q",
+      },
+      {
+        episodeNumber: 11,
+        episodeVideoURL: "https://filemoon.to/e/p3xrasidhbtr",
+      },
+      {
+        episodeNumber: 12,
+        episodeVideoURL: "https://filemoon.to/e/q23bycsz4b0v",
+      },
+      {
+        episodeNumber: 13,
+        episodeVideoURL: "https://filemoon.to/e/s3lip3h4hqi4",
+      },
+      {
+        episodeNumber: 14,
+        episodeVideoURL: "https://filemoon.to/e/c3zfm820cs9w",
+      },
+      {
+        episodeNumber: 15,
+        episodeVideoURL: "https://filemoon.to/e/t3yijogw5fq5",
+      },
+      {
+        episodeNumber: 16,
+        episodeVideoURL: "https://filemoon.to/e/wksbwmn2kahy",
+      },
+      {
+        episodeNumber: 17,
+        episodeVideoURL: "https://filemoon.to/e/dmkge01t7jh2",
+      },
+      {
+        episodeNumber: 18,
+        episodeVideoURL: "https://filemoon.to/e/wwhwq057apw4",
+      },
+      {
+        episodeNumber: 19,
+        episodeVideoURL: "https://filemoon.to/e/topps41ju7xz",
+      },
+      {
+        episodeNumber: 20,
+        episodeVideoURL: "https://filemoon.to/e/kh9lwf0595j4",
+      },
+      {
+        episodeNumber: 21,
+        episodeVideoURL: "https://filemoon.to/e/wlfrt36gnsnb",
+      },
+      {
+        episodeNumber: 22,
+        episodeVideoURL: "https://filemoon.to/e/akosj3qhnh5b",
+      },
+      {
+        episodeNumber: 23,
+        episodeVideoURL: "https://filemoon.to/e/640cpxxfx8xo",
+      },
+      {
+        episodeNumber: 24,
+        episodeVideoURL: "https://filemoon.to/e/jhz88yll06y9",
+      },
+      {
+        episodeNumber: 25,
+        episodeVideoURL: "https://filemoon.to/e/krn7ri73u55m",
+      },
+    ],
+    type: "Anime",
+    nostalgia: false,
+  },
+  {
+    id: "s-15-DragonBallDaima",
+    title: "Dragon Ball Daima",
+    desc: "Për shkak të një komploti, Goku dhe miqtë e tij shndërrohen në fëmijë. Ata kanë ndërmend të udhëtojnë në një botë të panjohur për të hequr këtë ndodhi.",
+    language: "Titra Shqip",
+    rating: 8.6,
+    trending: true,
+    image:
+      "https://upload.wikimedia.org/wikipedia/en/9/9b/Dragon_Ball_Daima.png",
+    author: "Akira Toriyama",
+    mainCharacter: "Goku",
+    mainCast: ["Goku", "Vexhita"],
+    episodes: [
+      {
+        episodeNumber: 1,
+        episodeVideoURL: "https://filemoon.to/e/f3j80w2utbu5",
+      },
+      {
+        episodeNumber: 2,
+        episodeVideoURL: "https://filemoon.to/e/i4z03j62yebd",
+      },
+      {
+        episodeNumber: 3,
+        episodeVideoURL: "https://filemoon.to/e/5fqtewyqnx26",
+      },
+      {
+        episodeNumber: 4,
+        episodeVideoURL: "https://filemoon.to/e/4721ix7k7c1i",
+      },
+      {
+        episodeNumber: 5,
+        episodeVideoURL: "https://filemoon.to/e/w6ekz3lh5wtw",
+      },
+      {
+        episodeNumber: 6,
+        episodeVideoURL: "https://filemoon.to/e/r26xf7knz0nw",
+      },
+      {
+        episodeNumber: 7,
+        episodeVideoURL: "https://filemoon.to/e/hk2zvvqieork",
+      },
+    ],
+    type: "Anime",
+    nostalgia: false,
+  },
+  // {
+  //   id: "s-16-",
+  //   title: "",
+  //   desc: "",
+  //   language: "Dublim Shqip",
+  //   rating: 8.8,
+  //   trending: false,
+  //   image: "",
+  //   author: "",
+  //   mainCharacter: "",
+  //   mainCast: ["", "", ""],
+  //   episodes: [
+  //     {
+  //       episodeNumber: 1,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 2,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 3,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 4,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 5,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 6,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 7,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 8,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 9,
+  //       episodeVideoURL: "",
+  //     },
+  //     {
+  //       episodeNumber: 10,
+  //       episodeVideoURL: "",
+  //     },
+  //   ],
+  //   type: "Anime",
+  //   nostalgia: true,
+  // },
 ];
